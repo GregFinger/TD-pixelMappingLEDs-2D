@@ -15,6 +15,6 @@ For example this circular arrangement has 20 strips of 30 leds each.
 
 There's a CHOP named LEDRGBData. This has all the rgb data sequenced in one long channel. So the first 3 samples of this, correspond to the RGB data of the led address of 0. The second 3 samples are the RGB data for the address 1, and so on.
 
-![screenshot](/ledPixelData.png)
+![screenshot](/ledRGBData.png)
 
 This CHOP data can then go directly out to your led controller.
