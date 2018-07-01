@@ -17,4 +17,4 @@ There's a CHOP named LEDPixelData. This has all the rgb data sequenced in one lo
 
 ![screenshot](/ledPixelData.png)
 
-This CHOP data can then go directly out to your pixel controller.
+This CHOP data can then go directly out to your led controller.
