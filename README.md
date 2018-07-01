@@ -1,4 +1,4 @@
-# TD-pixelMappingLEDs
+# TD-pixelMappingLEDs-2D
 
 Pixel mapping with arbitrary 2D Geometric arrangements.
 Uses a TOP texture to control colors.
